@@ -126,7 +126,18 @@ a{
 
 }
 
-
+.formulario input[type='date'],
+.formulario textarea{
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 12px 20px;
+    border: 1px solid #999;
+    color: #999;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    outline: 0;
+    border-radius: 0.5rem;
+}
 
 
 
